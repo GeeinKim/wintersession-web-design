@@ -72,3 +72,8 @@ ul {
 #pullquotespecial {
   color:rgb(74, 46, 139)
 }
+
+.ty1 {
+	border:1px dotted blue;
+	border-radius:20px;
+}
